@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Welcome to Kim Sayre Photography! Serving the Sierra Foothills - Grass Valley, Nevada City and the San Francisco Bay Area (since 2002)'
-datePublished: '2016-04-22T23:17:02.752Z'
-dateModified: '2016-04-22T23:16:58.251Z'
+datePublished: '2016-04-22T23:41:31.764Z'
+dateModified: '2016-04-22T23:41:23.599Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-welcome-to-kim-sayre-photography-serving-the-sierra-foothil.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: welcome-to-kim-sayre-photography-serving-the-sierra-foothil/index.html
 _type: Article
 
