@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kim Sayre Photography]]></title>
+        <description><![CDATA[Kim Sayre Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Apr 2016 22:47:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>One of the things I love the most about being a professional photographer is designing albums to showcase my clients' images. Whether it is a wedding, portrait session, glamour session or a group of sessions following a family over the years, nothing quite beats holding printed images IN YOUR HANDS!! Digital images are still meant to be printed! Let's keep the tradition going! Here are some designs I have been working on lately!</p>]]></description>
+            <link>undefinedone-of-the-things-i-love-the-most-about-being-a-professional/index.html</link>
+            <guid isPermaLink="false">29618885-a9b7-4905-a0c9-7edfbe966802</guid>
+            <pubDate>Fri, 22 Apr 2016 22:46:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
