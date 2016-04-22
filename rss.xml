@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Kim Sayre Photography - Grass Valley and San Francisco Bay Area Portraits and Events]]></title>
         <description><![CDATA[Kim Sayre Photography - Grass Valley and San Francisco Bay Area Portraits and Events]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kim-sayre-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 23:08:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 23:11:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kim-sayre-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82c419c5-0c71-4592-adfa-fb13a0e1e3ba.jpg">]]></description>
-            <link>undefinedwelcome-to-kim-sayre-photography-serving-the-sierra-foothil/index.html</link>
+            <link>https://thegrid.ai/kim-sayre-photography/welcome-to-kim-sayre-photography-serving-the-sierra-foothil/index.html</link>
             <guid isPermaLink="false">d850aad0-a67c-4dee-a7cd-380027ac50de</guid>
-            <pubDate>Fri, 22 Apr 2016 23:08:19 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2016 23:11:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
