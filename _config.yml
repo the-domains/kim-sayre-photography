@@ -1,29 +1,41 @@
-name: Kim Sayre Photography
-favicon: null
-layout_spectrum: 0.73603
-typography_spectrum: 0.32402
 title: Kim Sayre Photography - Grass Valley and San Francisco Portraits and Events
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0.9946237
+  lightness: 0.625
   brandColors:
     - '#0d0c08'
     - '#a9d0df'
     - '#8e95a8'
     - '#5f6f7e'
     - '#553320'
-  brandStrength: 0
-  lightness: 0.625
-  saturation: 1
   rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Kim Sayre Photography
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.32402
+layout_spectrum: 0.73603
