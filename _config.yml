@@ -1,6 +1,6 @@
 name: Kim Sayre Photography
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.7445
 typography_spectrum: 0.32402
 title: Kim Sayre Photography - Grass Valley and San Francisco Portraits and Events
 collections:
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.3195938
   lightness: 0.620669
   saturation: 1
-  rhythmicContrast: 0.2658303
+  rhythmicContrast: 0.75
 purpose: []
