@@ -5,14 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Welcome to Kim Sayre Photography! Serving the Sierra Foothills - Grass Valley, Nevada City and the San Francisco Bay Area (since 2002)'
-datePublished: '2016-04-26T16:21:36.136Z'
-dateModified: '2016-04-26T16:21:31.522Z'
+datePublished: '2016-05-09T03:52:38.238Z'
+dateModified: '2016-05-09T03:52:17.758Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-22-welcome-to-kim-sayre-photography-serving-the-sierra-foothil.md
-published: true
 authors: []
 publisher:
   name: null
@@ -28,4 +27,4 @@ _type: Article
 
 Welcome to Kim Sayre Photography! Serving the Sierra Foothills - Grass Valley, Nevada City and the San Francisco Bay Area (since 2002)
 
-Studio Portraits, Environmental Portraits, Business Headshots, Weddings and other Events - Kim Sayre, Cr. Photog. brings almost fifteen years of training and experience and state of the art tools to capture and preserve your precious memories!
+Studio Portraits, Environmental Portraits, Business Headshots, Weddings and other Events - Kim Sayre, Cr. Photog. brings almost fifteen years of training and experience and state of the art tools to capture and preserve your precious memories! Call (415) 515-6370 for more information.
