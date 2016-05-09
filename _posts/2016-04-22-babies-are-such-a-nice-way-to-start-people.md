@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Babies are such a nice way to start people...
-datePublished: '2016-04-23T00:06:02.584Z'
-dateModified: '2016-04-23T00:05:30.051Z'
+datePublished: '2016-05-09T05:08:59.049Z'
+dateModified: '2016-04-23T00:06:24.142Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-22-babies-are-such-a-nice-way-to-start-people.md
-published: true
 authors: []
 publisher:
   name: null
