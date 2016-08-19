@@ -1,8 +1,34 @@
-name: Kim Sayre Photography
-favicon: null
-layout_spectrum: 0.75042
 typography_spectrum: 0.80689
-title: 'Kim Sayre Photography - 415-515-6370 Weddings, Portraits and Events '
+color:
+  brandColors:
+    - '#030303'
+    - '#ECF8EE'
+    - '#D1C1A7'
+    - '#825E48'
+    - '#E4839F'
+  brandStrength: 0.3195938
+  lightness: 0.620669
+  saturation: 1
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75042
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  email: kim@millcottagephoto.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf667ea2-2213-437c-b6d5-be668357af5d.png
+name: Kim Sayre Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#030303'
-    - '#ECF8EE'
-    - '#D1C1A7'
-    - '#825E48'
-    - '#E4839F'
-  brandStrength: 0.3195938
-  lightness: 0.620669
-  saturation: 1
-  rhythmicContrast: 0.75
+title: 'Kim Sayre Photography - 415-515-6370 Weddings, Portraits and Events '
 purpose: []
