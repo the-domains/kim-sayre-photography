@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Portfolio
+    url: 'https://delicious-images.smugmug.com/'
+    type: external
 favicon: null
 collections:
   - index:
