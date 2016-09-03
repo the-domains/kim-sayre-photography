@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T18:54:03.941Z'
+datePublished: '2016-08-31T19:11:09.472Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T18:53:30.546Z'
+dateModified: '2016-08-31T18:54:42.907Z'
 title: Studio newborn sessions…
 publisher: {}
 description: Little baby newborn - 8 days old… LOVE!!!
-starred: false
 sourcePath: _posts/2016-08-31-studio-newborn-sessions.md
+starred: false
 _type: Blurb
 
 ---
