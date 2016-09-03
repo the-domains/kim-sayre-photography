@@ -1,4 +1,3 @@
-layout_spectrum: 0.6376741656567901
 typography_spectrum: 0.21958514023572206
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6376741656567901
 analytics:
   google: null
   facebook: null
@@ -24,7 +24,7 @@ author:
   name: Kim Sayre
   url: 'https://delicious-images.smugmug.com/'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf667ea2-2213-437c-b6d5-be668357af5d.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/31fa906f-4f2f-415e-b516-579660498609.jpg
 name: Kim Sayre Photography
 cta:
   domain: null
